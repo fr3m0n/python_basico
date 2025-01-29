@@ -1,11 +1,12 @@
 Configuracion de git
-git config --global user.name "Freddy Chau"
-git config --global user.email "fchau@hotmail.es"
+git config --global user.name "Tu nombre"
+git config --global user.email "Tu correo"
 git config --global core.editor "code --wait"
 git config --global core.autocrlf "code --wait"
 
 
-
+Instrucciones para GitHub
 git remote add origin https://github.com/fr3m0n/python_basico.git
 git branch -M main
 git push -u origin main
+
