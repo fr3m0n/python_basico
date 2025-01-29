@@ -1,5 +1,5 @@
 Configuracion de git
-git config --global user.name "Freddy Chau"
-git config --global user.email "fchau@hotmail.es"
+git config --global user.name "nombre usuario"
+git config --global user.email "mi email"
 git config --global core.editor "code --wait"
 git config --global core.autocrlf "code --wait"
